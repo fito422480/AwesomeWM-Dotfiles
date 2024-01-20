@@ -70,7 +70,7 @@ Funciones principales:
 
 <br>
 
-> Este repositorio tiene una wiki. Puede consultarlo haciendo clic en  ~~[here](https://www.youtube.com/watch?v=UIp6_0kct_U)~~ [here](https://github.com/fito422480/AwesomeWM-Dotfiles/wiki).
+> Este repositorio tiene una wiki. Puede consultarlo haciendo clic en  [here](https://github.com/fito422480/AwesomeWM-Dotfiles/wiki).
 
 <!-- SETUP -->
 
