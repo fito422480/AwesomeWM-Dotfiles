@@ -118,7 +118,7 @@ systemctl --user start mpd.service
 
 ```sh
 git clone --depth 1 --recurse-submodules https://github.com/fito422480/AwesomeWM-Dotfiles.git
-cd yoru && git submodule update --remote --merge
+cd AwesomeWM-Dotfiles && git submodule update --remote --merge
 ```
 
 > Copiar config archivos
@@ -207,8 +207,8 @@ Setup:
 
 1. Copy the themes to the themes folders
    ```sh
-   sudo cp -rf misc/themes/gtk/Yoru/* /usr/share/themes
-   cp -rf misc/themes/gtk/Yoru-GTK4/* ~/.config/gtk-4.0
+   sudo cp -rf misc/themes/gtk/AwesomeWM-Dotfiles/* /usr/share/themes
+   cp -rf misc/themes/gtk/AwesomeWM-Dotfiles-GTK4/* ~/.config/gtk-4.0
    ```
 2. Add this line on `~/.config/gtk-3.0/settings.ini` for left controls
    ```sh
