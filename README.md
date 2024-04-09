@@ -1,5 +1,5 @@
 
-## Hola a todos! fijate en esta config!
+## Hola a todos! prueba esta config!
 
 <a href="https://awesomewm.org/"><img alt="AwesomeWM Logo" height="150" align = "left" src="https://awesomewm.org/doc/api/images/AUTOGEN_wibox_logo_logo_and_name.svg"></a>
 
